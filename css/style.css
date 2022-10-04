@@ -1,0 +1,385 @@
+@font-face {
+    font-family: 'AMCAP Eternal';
+    src: url(../font/amcap-eternal-cufonfonts/AMCAP\ Eternal.otf);
+}
+
+body {
+    font-family: 'Raleway';
+
+}
+
+.sec-f-bg {
+    background-image: url(../images/Group\ 26.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-logo {
+    width: 20%;
+    padding: 2px 35px;
+}
+
+ul#menu-main-menu {
+    padding-left: 14%;
+    margin-top: -6%;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.sec-main-hading {
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 69px;
+    padding-left: 30px;
+    padding-bottom: 35%;
+    color: #FFFFFF;
+}
+
+.sec-joi-but {
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 170PX;
+    padding-left: 30px;
+    color: #FFFFFF;
+}
+
+.sec-joi-but:HOVER {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.src-h-icon {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+}
+
+.sec-f-bg2 {
+    background-color: #111;
+    padding-top: 80px !important;
+    margin-top: -10px;
+}
+
+.sec-main-hading2 {
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 69px;
+    color: #FFFFFF;
+}
+
+.sec-main-p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+
+}
+
+.sec-joi-but2 {
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 340PX;
+    color: #FFFFFF;
+}
+
+.sec-joi-but2:HOVER {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.sec-pading {
+    padding-top: 90px;
+}
+
+.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 10px;
+    float: left;
+}
+
+.sec-slider-scrol {
+    margin-top: -240px;
+}
+
+.sec-theall {
+    color: #000;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 126.9%;
+}
+
+.sec-main-years {
+    padding-left: 15%;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.sec-years::before {
+    content: "05";
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 126.9%;
+    text-align: center;
+    letter-spacing: 0.24em;
+    text-shadow: 2px 0 #777777, -2px 0 #777777, 0 2px #777777, 0 -2px #777777,
+        1px 1px #777777, -1px -1px #777777, 1px -1px #777777, -1px 1px #777777;
+    color: #fff;
+}
+
+.sec-years4::before {
+    content: "15";
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 126.9%;
+    text-align: center;
+    letter-spacing: 0.24em;
+    text-shadow: 2px 0 #777777, -2px 0 #777777, 0 2px #777777, 0 -2px #777777,
+        1px 1px #777777, -1px -1px #777777, 1px -1px #777777, -1px 1px #777777;
+    color: #fff;
+}
+
+.sec-years5::before {
+    content: "85";
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 126.9%;
+    text-align: center;
+    letter-spacing: 0.24em;
+    text-shadow: 2px 0 #777777, -2px 0 #777777, 0 2px #777777, 0 -2px #777777,
+        1px 1px #777777, -1px -1px #777777, 1px -1px #777777, -1px 1px #777777;
+    color: #fff;
+}
+
+.sec-years6::before {
+    content: "04";
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 126.9%;
+    text-align: center;
+    letter-spacing: 0.24em;
+    text-shadow: 2px 0 #777777, -2px 0 #777777, 0 2px #777777, 0 -2px #777777,
+        1px 1px #777777, -1px -1px #777777, 1px -1px #777777, -1px 1px #777777;
+    color: #fff;
+}
+
+
+.sec-years2 {
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 53px;
+    margin-left: -66px;
+    margin-top: -83px;
+    color: #333333;
+
+}
+
+.sec-years3 {
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+
+    color: #333333;
+
+}
+
+/* ------------------------gallery-page--------------- */
+
+
+.gallery-container p.page-description {
+    text-align: center;
+    margin: 25px auto;
+    font-size: 18px;
+    color: #999;
+}
+
+.tz-gallery {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+/* Override bootstrap column paddings */
+.tz-gallery .row>div {
+    padding: 2px;
+}
+
+.tz-gallery .lightbox img {
+    width: 100%;
+    border-radius: 0;
+    position: relative;
+
+}
+
+
+.tz-gallery .lightbox:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background-color: rgba(2, 2, 2, 0.7);
+    content: '';
+    transition: 0.4s;
+}
+
+.tz-gallery .lightbox:hover:after,
+.tz-gallery .lightbox:hover:before {
+    opacity: 1;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important;
+}
+
+.sec-bg-5 {
+    background-image: url(../images/contact\ bg\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.sec-cont-h {
+
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 126.9%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #FFFFFF;
+
+}
+
+input.form-control {
+    background: transparent;
+}
+
+textarea#exampleFormControlTextarea1 {
+    background: transparent;
+}
+
+::placeholder {
+    color: #fff !important;
+    font-size: 20px !important
+}
+
+.sec-but-cont {
+    font-family: 'AMCAP Eternal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120.2%;
+    text-align: center;
+
+    color: #333333;
+
+}
+
+.fo-bg {
+    background-color: #181818;
+}
+
+
+.ft-icon {
+    color: #fff;
+}
+.sec-d{
+    display: none;
+}
+
+
+
+
+@media (max-width: 767px) {
+    .sec-slider-scrol {
+        margin-top: 0px;
+    }
+    .sec-main-hading{
+        font-size: 22px;
+        line-height:30px;
+        padding-bottom: 10%;
+    }
+    .navbar-brand{
+        width: 50%;
+    }
+    .sec-logo{
+        display: none;
+    }
+    ul#menu-main-menu{
+        padding: 0  ;
+    }
+    li.nav-item.pl-4{
+        padding: 0 !important;
+    }
+    .sec-joi-but{
+        font-size: 25px;
+    line-height: 20px;
+    padding-bottom: 20px;
+    }
+    .sec-d{
+        display: block;
+        padding-bottom: 40px;
+    }
+    .sec-d2{
+        display: none;
+    }
+    .sec-pading{
+        padding-top: 20px;
+    }
+    .sec-f-bg2{
+        padding-top: 20px !important;
+    }
+    .sec-main-hading2{
+        font-size: 30px;
+    line-height: 39px;
+    }
+    .sec-joi-but2{
+        padding-bottom: 20px;
+    }
+    .sec-theall{
+        font-size: 20px;
+    }
+    .sec-years2{
+        margin-left: 0px !important;
+    }
+    .sec-cont-h{
+        font-size: 25px;
+    }
+    input.form-control {
+        background: transparent;
+        margin-top: 20px;
+    }
+}
